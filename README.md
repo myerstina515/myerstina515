@@ -1,4 +1,8 @@
 ### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100px" />
+</div>
+<div align="center">I'm Tina, a Software Engineer <br/> former Physical Therapist Assistant, Educator,<br/>Customer Service Ninja, and puzzler-extraordinaire!</div>
 
 <!--
 **myerstina515/myerstina515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
