@@ -77,4 +77,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=myerstina515&&style=flat-square" align="center" />
+</div>  
