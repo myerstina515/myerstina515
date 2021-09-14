@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
 </div>
 
 ### <div align="center">I'm Tina, a Full-Stack Software Engineer 👩‍💻 in Seattle. Former Physical Therapist Assistant, Educator 👩‍🏫 , Customer Service Ninja, and puzzler-extraordinaire 🧩!</div>  
@@ -63,7 +63,7 @@
 
 <br/>  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yf9wbz0hal6ihzoctmcdllu2q&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=yf9wbz0hal6ihzoctmcdllu2q&cover_image=true&theme=default" /></div>  
 
 ## Connect with me  
 <div align="center">
@@ -80,3 +80,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=myerstina515&&style=flat-square" align="center" />
 </div>  
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
