@@ -13,7 +13,7 @@
 - 😄 Pronouns are she/her/hers
 - ⚡ Fun fact: I use spaces over tabs 😉 
 
-## My Skill Set  
+## My Skills  
 <table><tr><td valign="top" width="33%">
 
 
@@ -61,6 +61,12 @@
 
 </td></tr></table>  
 
+#### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myerstina515&layout=compact)](https://github.com/myerstina515/github-readme-stats)
+
+
+#### Github Stats
+![Tina's github stats](https://github-readme-stats.vercel.app/api?username=myerstina515&show_icons=true&theme=dark)
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=yf9wbz0hal6ihzoctmcdllu2q&cover_image=true&theme=novatorem" /></div>  
