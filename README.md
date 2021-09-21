@@ -63,7 +63,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=yf9wbz0hal6ihzoctmcdllu2q&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=yf9wbz0hal6ihzoctmcdllu2q&cover_image=true&theme=novatorem" /></div>  
 
 ## Connect with me  
 <div align="center">
