@@ -6,12 +6,15 @@
 
 <br/> 
 
+
+
 - 🔭 I’m currently working on a landing page for Forever Body Fitness
 - 🌱 I’m currently learning Python 🐍 , and I LOVE it!
 - 🌱 I really want to learn Kubernetes and Next.js
 - ❓ Ask me about anything related to MERN stack, physiology, space, or hiking trails!
 - 😄 Pronouns are she/her/hers
 - ⚡ Fun fact: I use spaces over tabs 😉 
+- 📫 Reach me via email: [myers.tina515@gmail.com](mailto:myers.tina515@gmail.com)
 
 ## My Skills  
 <table><tr><td valign="top" width="33%">
