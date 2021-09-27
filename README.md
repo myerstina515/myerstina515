@@ -15,6 +15,8 @@
 - 😄 Pronouns are she/her/hers
 - ⚡ Fun fact: I use spaces over tabs 😉 
 - 📫 Reach me via email: [myers.tina515@gmail.com](mailto:myers.tina515@gmail.com)
+- 💼 Take a look at my portfolio site: [tina-myers-software-engineer.netlify.app/](https://tina-myers-software-engineer.netlify.app/)
+- 🔗 Come visit my LinkedIn: [linkedin.com/in/tinalmyers](https://www.linkedin.com/in/tinalmyers)
 
 ## My Skills  
 <table><tr><td valign="top" width="33%">
